@@ -33,10 +33,11 @@ No roadmap é possível visualizar:
 ```
 python-roadmap
 │
-├── 01_basico
-├── 02_intermediario
-├── 03_avancado
-└── projetos
+├── 01_basico/ → exercícios iniciais da linguagem 
+├── 02_intermediario/ → conceitos intermediários 
+├── 03_avancado/ → tópicos avançados de Python
+├── 04_especializacao/ → aplicações práticas da linguagem
+└── projetos/ → projetos completos utilizando os conceitos estudados
 ```
 
 
