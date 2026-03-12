@@ -1,22 +1,24 @@
-# 🐍 Python Roadmap
+# 🐍 Roteiro de Estudos em Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![GitHub](https://img.shields.io/badge/GitHub-Estudos-black?logo=github)
 
+
 Este repositório foi criado para registrar minha evolução estudando **Python**.
 
-Aqui estão organizados exercícios, desafios e pequenos projetos desenvolvidos enquanto sigo um **roteiro de estudos estruturado por mim**, indo do **básico ao avançado**.
+Aqui organizo exercícios, desafios e pequenos projetos desenvolvidos enquanto sigo um **roteiro de estudos estruturado por mim**, indo do básico ao avançado.
 
 O objetivo deste projeto é consolidar conhecimentos na linguagem, praticar lógica de programação e documentar minha evolução como desenvolvedora.
 
 ---
 
-## 📚 Roadmap de Estudos
+# 📚 Roteiro de Estudos
 
-Organizei todo o roteiro de aprendizado no Notion, onde acompanho progresso, tópicos estudados e exercícios realizados.
+Organizei todo o roteiro de aprendizagem no **Notion**, onde acompanho o progresso, os tópicos estudados e os exercícios realizados.
 
-🔗 **Acesse o roadmap completo:**  
+🔗 **Acesse o roadmap completo:**
+
 https://www.notion.so/Python-Roadmap-303ce5aed01b802098bbf1f84f243467?source=copy_link
 
 No roadmap é possível visualizar:
@@ -26,70 +28,64 @@ No roadmap é possível visualizar:
 - exercícios de fixação
 - estrutura completa do aprendizado
 
----
-
-## 📂 Estrutura do Repositório
-
 ```
 python-roadmap
 │
-├── 01_basico/ → exercícios iniciais da linguagem 
-├── 02_intermediario/ → conceitos intermediários 
+├── 01_basico/ → exercícios iniciais da linguagem
+├── 02_intermediario/ → conceitos intermediários
 ├── 03_avancado/ → tópicos avançados de Python
 ├── 04_especializacao/ → aplicações práticas da linguagem
 └── projetos/ → projetos completos utilizando os conceitos estudados
 ```
 
-
-Cada pasta contém exercícios, exemplos e pequenas práticas relacionadas aos conceitos estudados em cada etapa.
+Cada pasta contém exercícios, exemplos e pequenas práticas relacionadas aos conceitos treinados em cada etapa.
 
 ---
 
-## 🧠 Conteúdos Estudados
+# 🧠 Conteúdos Estudados
 
-Este roadmap inclui tópicos importantes da linguagem Python:
+Este roteiro inclui diversos conceitos importantes da linguagem Python.
 
-### 🟢 Básico
+## 🟢 Básico
 - Fundamentos da linguagem
 - Operadores
 - Estruturas condicionais
 - Estruturas de repetição
 - Estruturas de dados
 
-### 🟡 Intermediário
+## 🟡 Intermediário
 - Funções
 - Manipulação de strings
 - Manipulação de arquivos
 - Tratamento de erros
-- Módulos e pacotes
 
-### 🔵 Avançado
+## 🔵 Avançado
 - Programação orientada a objetos
-- Bibliotecas essenciais
+- Módulos e organização de código
 - Testes
 
-### 🔴 Especialização
+## 🔴 Especialização
 - Python para banco de dados
 - Python para desenvolvimento web
-- Conceitos avançados
+- Automação
 - Projetos práticos
 
 ---
 
-## 🚀 Objetivo do Projeto
+# 🚀 Objetivo do Projeto
 
 Este repositório faz parte da minha jornada de aprendizado em **desenvolvimento de software**.
 
 A proposta é:
 
-- registrar evolução nos estudos
+- registrar minha evolução nos estudos
 - praticar resolução de problemas
 - consolidar fundamentos de programação
-- construir uma base sólida para desenvolvimento backend
+- construir uma base sólida para desenvolvimento **back-end com Python**
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias Utilizadas
 
 - Python 3
 - Git
@@ -98,14 +94,17 @@ A proposta é:
 
 ---
 
-## 📌 Status do Repositório
+# 📌 Status do Repositório
 
 📖 Em desenvolvimento — novos exercícios e projetos serão adicionados conforme avanço no roteiro de estudos.
 
 ---
 
-## 👩‍💻 Autora
+# 👩‍💻 Autora
 
 Projeto desenvolvido como parte da minha jornada em **Análise e Desenvolvimento de Sistemas** e estudos em programação.
 
-Os conteúdos estão organizados por níveis de aprendizado:
+Os conteúdos estão organizados por **níveis de aprendizagem**, permitindo acompanhar a evolução dos estudos ao longo do tempo.
+---
+
+# 📂 Estrutura do Repositório
