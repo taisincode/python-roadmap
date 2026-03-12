@@ -8,8 +8,9 @@
 nomes = []
 
 for i in range(5):
-    nomes = input('Digite um nome: ')
-    numeros.append(numero)
-print(numeros)
+    nome = input('Digite um nome: ')
+    nomes.append(nome)
+    
+for i in range(5):
+    print(f"{i} - ",nomes[i])
 
-menor = numeros[0]
