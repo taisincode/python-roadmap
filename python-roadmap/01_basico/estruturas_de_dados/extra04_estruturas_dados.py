@@ -7,3 +7,7 @@
 ## - autor
 ## - número de páginas
 ##Depois mostre o resultado
+
+livro = {"titulo": input("Título: "), "autor": input("Autor: "), "numero de paginas": int(input("Número de páginas: "))}
+
+print(livro)
